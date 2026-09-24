@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "it3038c-001-fa26"
+assignment: "bash-args"
+owner:
+  username: "flynnjk-ux"
+  id: 229602006
+  accepted_at: "2026-09-23T04:53:45Z"
+source:
+  owner: "IT3038C-Reed-FA26"
+  owner_id: 308843496
+  repo: "Bash-Args"
+  branch: "main"
