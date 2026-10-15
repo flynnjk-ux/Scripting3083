@@ -1,0 +1,8 @@
+2026-10-14 08:20:10 INFO User alice logged in successfully
+2026-10-14 08:22:03 WARNING Multiple login attempts detected from 192.0.2.40
+2026-10-14 08:22:08 FAILED Login for user admin from 192.0.2.40
+2026-10-14 08:22:10 FAILED Login for user admin from 192.0.2.40
+2026-10-14 08:24:00 ERROR Unable to connect to authentication service
+2026-10-14 08:25:18 INFO Authentication service restored
+2026-10-14 09:01:12 warning Disk space approaching threshold
+2026-10-14 09:05:31 error Backup job could not write a file
