@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "it3038c-001-fa26"
+assignment: "python-files"
+owner:
+  username: "flynnjk-ux"
+  id: 229602006
+  accepted_at: "2026-11-03T00:34:01Z"
+source:
+  owner: "IT3038C-Reed-FA26"
+  owner_id: 308843496
+  repo: "Python-Files"
+  branch: "main"
